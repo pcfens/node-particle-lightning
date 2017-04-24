@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "particle": {
+    "username": "user@example.com",
+    "password": "a_super_secret_password!"
+  }
+}

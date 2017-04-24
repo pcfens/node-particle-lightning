@@ -1,0 +1,11 @@
+{
+  "name": "particle-as3935",
+  "version": "0.1.0",
+  "description": "A web interface to display AS3935 data sent via particle.io",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7",
+    "particle-api-js": "^6.4.3"
+  }
+}
